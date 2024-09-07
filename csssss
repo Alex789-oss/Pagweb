@@ -1,0 +1,195 @@
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 15px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #3a121f; /* El color del fondo de la página web */
+    color: #cec1df; /* El color del texto*/ 
+}
+h1 {
+    color: #1809a0; /* El color de la cabecera */
+    font-size: 28px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h2 {
+    color: #4309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h3 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h4 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h5 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h6 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h7 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h8 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h9 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h10 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h11 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h12 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h13 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h14 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h15 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h16 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h17 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h18 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h19 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h20 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h21 {
+    color: #9309a0; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+
+
+@keyframes color-change {
+    0% {
+      color: rgb(52, 160, 110);
+    }
+  
+    40% {
+      color: rgb(19, 216, 62);
+    }
+    
+    80% {
+      color: rgb(153, 226, 17);
+    }
+
+    100% {
+      color: rgb(46, 134, 65);
+    }
+}
+
+
+h1 {
+    animation: color-change 4s infinite;
+}
+h2 {
+    animation: color-change 4s infinite;
+}
+h3 {
+    animation: color-change 4s infinite;
+}
+h4 {
+    animation: color-change 4s infinite;
+}
+h5 {
+    animation: color-change 4s infinite;
+}
+h6 {
+    animation: color-change 4s infinite;
+}
+h7 {
+    animation: color-change 4s infinite;
+}
+h8 {
+    animation: color-change 4s infinite;
+}
+h9 {
+    animation: color-change 4s infinite;
+}
+h10 {
+    animation: color-change 4s infinite;
+}
+h11 {
+    animation: color-change 4s infinite;
+}
+h12 {
+    animation: color-change 4s infinite;
+}
+h13 {
+    animation: color-change 4s infinite;
+}
+h14 {
+    animation: color-change 4s infinite;
+}
+h15 {
+    animation: color-change 4s infinite;
+}
+h16 {
+    animation: color-change 4s infinite;
+}
+h17 {
+    animation: color-change 4s infinite;
+}
+h18 {
+    animation: color-change 4s infinite;
+}
+h19 {
+    animation: color-change 4s infinite;
+}
+h20 {
+    animation: color-change 4s infinite;
+}
+h21 {
+    animation: color-change 4s infinite;
+}
